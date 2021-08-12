@@ -7,7 +7,7 @@ The app using port 9000 to run.
 
 Used by firing an API into postman, where the key is albumPic , coverPic is used to store images and jsonFiles is used to store incoming JSON files.
 
-# How to run
+## How to run
 ```
 npm run dev
 ```
